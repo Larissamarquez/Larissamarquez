@@ -26,8 +26,7 @@
 * ⚡ **Otimização de desempenho**
 
 ## ✨ <span style="color: #bd93f9;">Hobbies & Interesses</span>
-* 🧩 **Psicanálise** & Comportamento Humano
-* 🔭 **Astronomia** & Exploração Espacial 🌌
+* 🔭 **Astronomia** 🌌
 * 💡 **Empreendedorismo**
 
 ---
