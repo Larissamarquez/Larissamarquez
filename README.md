@@ -12,6 +12,10 @@
     "Crafting Code, Building Dreams with a Touch of Pink" 🌸
   </p>
 
+  <a href="https://pagina-inicial-netflix-clone.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visualizar_Projeto_Netflix_Ao_Vivo-FF79C6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  </a>
+
 </div>
 
 <br>
@@ -22,8 +26,8 @@
 * ⚡ **Otimização de desempenho**
 
 ## ✨ <span style="color: #bd93f9;">Hobbies & Interesses</span>
-* 🧩 **Psicanálise**
-* 🔭 **Astronomia** 🌌
+* 🧩 **Psicanálise** & Comportamento Humano
+* 🔭 **Astronomia** & Exploração Espacial 🌌
 * 💡 **Empreendedorismo**
 
 ---
@@ -54,7 +58,7 @@
 <br>
 
 <div align="center"> 
-  <a href="https://instagram.com/oneway.agency/" target="_blank">
+  <a href="https://instagram.com/larissamarquez__" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/larissa-marques-087123228/" target="_blank">
