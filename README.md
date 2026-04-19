@@ -33,14 +33,29 @@
 
 ### 📊 Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larissamarquez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissamarquez&layout=compact&langs_count=16&theme=dracula" />
+  <table>
+    <tr>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larissamarquez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /></td>
+      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissamarquez&layout=compact&langs_count=16&theme=dracula" /></td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
 ### 🛠️ Tecnologias e Ferramentas
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/></td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -54,9 +69,11 @@
 <div align="center"> 
   <a href="https://instagram.com/larissamarquez__" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>&nbsp;<a href="https://www.linkedin.com/in/larissa-marques-087123228/" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/larissa-marques-087123228/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>&nbsp;<a href="mailto:larissamarques22236@gmail.com">
+  </a>
+  <a href="mailto:larissamarques22236@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
