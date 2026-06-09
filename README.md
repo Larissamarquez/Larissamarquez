@@ -35,8 +35,12 @@
 <div align="center">
   <table>
     <tr>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Larissamarquez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /></td>
-      <td><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissamarquez&layout=compact&langs_count=16&theme=dracula" /></td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Larissamarquez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Larissamarquez&theme=dracula" alt="GitHub Streak" />
+      </td>
     </tr>
   </table>
 </div>
