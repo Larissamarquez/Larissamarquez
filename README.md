@@ -36,7 +36,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Larissamarquez&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Larissamarquez&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Larissamarquez&theme=dracula" alt="GitHub Streak" />
